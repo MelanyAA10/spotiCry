@@ -1,0 +1,100 @@
+{
+  "canciones": [
+    {
+      "id": "1",
+      "nombre": "Blinding Lights",
+      "artista": "The Weeknd",
+      "album": "After Hours",
+      "duracion": 200,
+      "ruta": "http://127.0.0.1:8080/audio/blinding-lights.mp3"
+    },
+    {
+      "id": "2",
+      "nombre": "Shape of You",
+      "artista": "Ed Sheeran",
+      "album": "÷",
+      "duracion": 233,
+      "ruta": "http://127.0.0.1:8080/audio/shape-of-you.mp3"
+    },
+    {
+      "id": "3",
+      "nombre": "Dance Monkey",
+      "artista": "Tones and I",
+      "album": "The Kids Are Coming",
+      "duracion": 209,
+      "ruta": "http://127.0.0.1:8080/audio/dance-monkey.mp3"
+    },
+    {
+      "id": "4",
+      "nombre": "Someone Like You",
+      "artista": "Adele",
+      "album": "21",
+      "duracion": 285,
+      "ruta": "http://127.0.0.1:8080/audio/someone-like-you.mp3"
+    },
+    {
+      "id": "5",
+      "nombre": "Bad Guy",
+      "artista": "Billie Eilish",
+      "album": "When We All Fall Asleep",
+      "duracion": 194,
+      "ruta": "http://127.0.0.1:8080/audio/bad-guy.mp3"
+    },
+    {
+      "id": "6",
+      "nombre": "Bohemian Rhapsody",
+      "artista": "Queen",
+      "album": "A Night at the Opera",
+      "duracion": 354,
+      "ruta": "http://127.0.0.1:8080/audio/bohemian-rhapsody.mp3"
+    },
+    {
+      "id": "7",
+      "nombre": "Imagine",
+      "artista": "John Lennon",
+      "album": "Imagine",
+      "duracion": 183,
+      "ruta": "http://127.0.0.1:8080/audio/imagine.mp3"
+    },
+    {
+      "id": "8",
+      "nombre": "Hotel California",
+      "artista": "Eagles",
+      "album": "Hotel California",
+      "duracion": 390,
+      "ruta": "http://127.0.0.1:8080/audio/hotel-california.mp3"
+    },
+    {
+      "id": "9",
+      "nombre": "Rolling in the Deep",
+      "artista": "Adele",
+      "album": "21",
+      "duracion": 228,
+      "ruta": "http://127.0.0.1:8080/audio/rolling-in-the-deep.mp3"
+    },
+    {
+      "id": "10",
+      "nombre": "Uptown Funk",
+      "artista": "Mark Ronson ft. Bruno Mars",
+      "album": "Uptown Special",
+      "duracion": 270,
+      "ruta": "http://127.0.0.1:8080/audio/uptown-funk.mp3"
+    },
+    {
+      "id": "11",
+      "nombre": "Hallelujah",
+      "artista": "Leonard Cohen",
+      "album": "Various Positions",
+      "duracion": 248,
+      "ruta": "http://127.0.0.1:8080/audio/hallelujah.mp3"
+    },
+    {
+      "id": "12",
+      "nombre": "Stairway to Heaven",
+      "artista": "Led Zeppelin",
+      "album": "Led Zeppelin IV",
+      "duracion": 482,
+      "ruta": "http://127.0.0.1:8080/audio/stairway-to-heaven.mp3"
+    }
+  ]
+}
