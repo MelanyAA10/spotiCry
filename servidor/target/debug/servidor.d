@@ -1,1 +1,1 @@
-C:\Users\melan\OneDrive\ -\ Estudiantes\ ITCR\Lenguajes\SpotiCry\servidor\target\debug\servidor.exe: C:\Users\melan\OneDrive\ -\ Estudiantes\ ITCR\Lenguajes\SpotiCry\servidor\src\main.rs
+C:\Users\melan\OneDrive\ -\ Estudiantes\ ITCR\Git\ Hub\SpotiCry\servidor\target\debug\servidor.exe: C:\Users\melan\OneDrive\ -\ Estudiantes\ ITCR\Git\ Hub\SpotiCry\servidor\src\main.rs
