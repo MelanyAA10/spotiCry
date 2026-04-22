@@ -1,5 +1,5 @@
-   0.045288700s  INFO prepare_target{force=false package_id=servidor v0.1.0 (C:\Users\melan\OneDrive - Estudiantes ITCR\Git Hub\SpotiCry) target="servidor"}: cargo::core::compiler::fingerprint: fingerprint error for servidor v0.1.0 (C:\Users\melan\OneDrive - Estudiantes ITCR\Git Hub\SpotiCry)/Check { test: false }/TargetInner { name: "servidor", doc: true, ..: with_path("C:\\Users\\melan\\OneDrive - Estudiantes ITCR\\Git Hub\\SpotiCry\\src\\main.rs", Edition2021) }
-   0.045339800s  INFO prepare_target{force=false package_id=servidor v0.1.0 (C:\Users\melan\OneDrive - Estudiantes ITCR\Git Hub\SpotiCry) target="servidor"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\melan\OneDrive - Estudiantes ITCR\Git Hub\SpotiCry\target\debug\.fingerprint\servidor-788b6b190da3e3f4\bin-servidor`
+   0.037830000s  INFO prepare_target{force=false package_id=servidor v0.1.0 (C:\Users\melan\OneDrive - Estudiantes ITCR\Git Hub\SpotiCry) target="servidor"}: cargo::core::compiler::fingerprint: fingerprint error for servidor v0.1.0 (C:\Users\melan\OneDrive - Estudiantes ITCR\Git Hub\SpotiCry)/Check { test: false }/TargetInner { name: "servidor", doc: true, ..: with_path("C:\\Users\\melan\\OneDrive - Estudiantes ITCR\\Git Hub\\SpotiCry\\src\\main.rs", Edition2021) }
+   0.037887800s  INFO prepare_target{force=false package_id=servidor v0.1.0 (C:\Users\melan\OneDrive - Estudiantes ITCR\Git Hub\SpotiCry) target="servidor"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\melan\OneDrive - Estudiantes ITCR\Git Hub\SpotiCry\target\debug\.fingerprint\servidor-788b6b190da3e3f4\bin-servidor`
 
 Caused by:
     El sistema no puede encontrar el archivo especificado. (os error 2)
@@ -26,8 +26,8 @@ Stack backtrace:
   18: git_midx_writer_dump
   19: BaseThreadInitThunk
   20: RtlUserThreadStart
-   0.059053000s  INFO prepare_target{force=false package_id=servidor v0.1.0 (C:\Users\melan\OneDrive - Estudiantes ITCR\Git Hub\SpotiCry) target="servidor"}: cargo::core::compiler::fingerprint: fingerprint error for servidor v0.1.0 (C:\Users\melan\OneDrive - Estudiantes ITCR\Git Hub\SpotiCry)/Check { test: true }/TargetInner { name: "servidor", doc: true, ..: with_path("C:\\Users\\melan\\OneDrive - Estudiantes ITCR\\Git Hub\\SpotiCry\\src\\main.rs", Edition2021) }
-   0.059076000s  INFO prepare_target{force=false package_id=servidor v0.1.0 (C:\Users\melan\OneDrive - Estudiantes ITCR\Git Hub\SpotiCry) target="servidor"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\melan\OneDrive - Estudiantes ITCR\Git Hub\SpotiCry\target\debug\.fingerprint\servidor-f5d18f78ab62cb2c\test-bin-servidor`
+   0.055154400s  INFO prepare_target{force=false package_id=servidor v0.1.0 (C:\Users\melan\OneDrive - Estudiantes ITCR\Git Hub\SpotiCry) target="servidor"}: cargo::core::compiler::fingerprint: fingerprint error for servidor v0.1.0 (C:\Users\melan\OneDrive - Estudiantes ITCR\Git Hub\SpotiCry)/Check { test: true }/TargetInner { name: "servidor", doc: true, ..: with_path("C:\\Users\\melan\\OneDrive - Estudiantes ITCR\\Git Hub\\SpotiCry\\src\\main.rs", Edition2021) }
+   0.055189200s  INFO prepare_target{force=false package_id=servidor v0.1.0 (C:\Users\melan\OneDrive - Estudiantes ITCR\Git Hub\SpotiCry) target="servidor"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\melan\OneDrive - Estudiantes ITCR\Git Hub\SpotiCry\target\debug\.fingerprint\servidor-f5d18f78ab62cb2c\test-bin-servidor`
 
 Caused by:
     El sistema no puede encontrar el archivo especificado. (os error 2)
